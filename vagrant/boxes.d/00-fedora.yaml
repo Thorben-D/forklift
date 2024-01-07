@@ -1,8 +1,0 @@
-boxes:
-  fedora37:
-    box_name: 'fedora/37-cloud-base'
-    pty: true
-
-  fedora38:
-    box_name: 'fedora/38-cloud-base'
-    pty: true
